@@ -1,0 +1,519 @@
+http://cs.mbgame.gamesafe.qq.com:80"]) {
+
+        return [NSURL hook_URLWithString:@" "];
+
+        //头像
+
+ return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"‏cloudctrl.gcloudsdk.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"‏down.anticheatexpert.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"dl.gjacky.com:8086"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"download.2.1375135419.igame.gcloudcs.com:8080"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"cdn.wetest.net:443"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"‏cloud2.gsdk.proximabeta.com:18082"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"‏app-measurement.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"ig-us-sdkapi.igamecj.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"commnat-main-gc.ess.apple.com:16385"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"https://www.google.com"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"‏vmp.qq.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"napubgm.broker.amsoveasea.com"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"nawzryhwatm.broker.amsoveasea.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"pandora.game.qq.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"lobby.igamecj.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"qos.gcloud.qq.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"https://graph.facebook.com/v8.0/1979447509033428/activities"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"http://asia.csoversea.mbgame.anticheatexpert.com/"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"asia.csoversea.mbgame.anticheatexpert.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"lobby.igamecj.com:17500"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"tencentgames.helpshift.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"saping.igamecj.com:9030"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+
+        }else if ([Str containsString:@"down.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"www.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"‏wkchannel.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"us.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"uic-cn.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"uic.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"‏dirty.uic.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"tqos.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+ 
+      }else if ([Str containsString:@"riot-mtp.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"mtp.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"backup-riot-mtp.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"backupriotmtp.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"bgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"cs.channel.anticheatexpert.com‏"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+ 
+      }else if ([Str containsString:@"cmbgame.anticheatexpert.com‏"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"cn.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"court.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"cschannel.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"nj.cschannel.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"usa.csoversea.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+ 
+      }else if ([Str containsString:@"anusa.csoversea.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏csoversea.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏us.csoversea.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏csoverseas.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏dawn.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"‏defender1.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+ 
+      }else if ([Str containsString:@"‏defender2.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏defender3.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏defender4.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏defender5.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏defender6.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"‏defender7.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+ 
+      }else if ([Str containsString:@"‏defender8.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏downintl.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏gamesafe.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏intl.anticheatexpert.com"]) {
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+       }else if ([Str containsString:@"‏csoversea.mbgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"127.0.0.1"];
+
+        }else if ([Str containsString:@"‏mbgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+ 
+      }else if ([Str containsString:@"‏cs.mbgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+       }else if ([Str containsString:@"‏down.mbgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+       }else if ([Str containsString:@"‏a.mbgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+       }else if ([Str containsString:@"‏ea.mbgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+       }else if ([Str containsString:@"‏ame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"us.mbgame.anticheatexpert.comversea.mbg"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"‏usa.mbgame.anticheatexpert.com"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+      }else if ([Str containsString:@"krping.igamecj.com:9030"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"‏meping.igamecj.com:9030"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"euping.igamecj.com:9030"]) {
+
+        return [NSURL hook_URLWithString:@"‏0.0.0.0"];
+
+        }else if ([Str containsString:@"hkping.igamecj.com:9030"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"naping.igamecj.com:9030"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"2005-shadow.igamecj.com:9031"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"na-west.shadow.igamecj.com:9031"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"2006-shadow.igamecj.com:9031"]) {
+
+        return [NSURL hook_URLWithString:@"0.0.0.0"];
+
+        }else if ([Str containsString:@"https://stat.tpns.sh.tencent.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://log.tpns.sh.tencent.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://cloudctrl.gcloud.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://safebrowsing.urlsec.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://stat.tpns.sh.tencent.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://gchat.qpic.cn/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://app.xkkgame.top/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://myqcloud.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://time-ios.apple.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://idcconfig.gcloud.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://cloudctrl.gcloud.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://livew.l.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://settings-win.data.microsoft.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://video.qq.com//"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://pingfore.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://guid.tpns.sh.tencent.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://cdn.wetest.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"https://priv.igame.qq.com/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"http://www.metous.co"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"http://thirdqq.qlogo.cn/qqapp/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"http://www.metous.co/js/g.jpg"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"googleapis.com"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"instagram.com"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"cdninstagram.com"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"fbcdn.net"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"facebook.com"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"http://down.qq.com/jdqssy/billboard/CG010/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"gtimg.cn/"]) {
+
+        return [NSURL hook_URLWithString:@"162.62.70.170"];
+
+        }else if ([Str containsString:@"thirdwx.qlogo.cn/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        }else if ([Str containsString:@"thirdqq.qlogo.cn/"]) {
+
+        return [NSURL hook_URLWithString:@"http://103.45.182.104/HK.png"];
+
+        //其他
+
+        }else if ([Str containsString:@"http://cs.mbgame.gamesafe.qq.com:443"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"http://ttpandoracdn.amsoveasea.com/dny/pubgmobile/20210512205753/MidEastPreOrder_IOS_1.4.0.17346.pak"]) {
+
+        return [NSURL hook_URLWithString:@"http://ttpandoracdn.yhyyuu.com/dny/pubgmobile/20210512205753/MidEastPreOrder_IOS_1.4.0.17346.pak"];
+
+        }else if ([Str containsString:@"tencentgames.helpshift.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"tencentgames.uytgyh.com:443"];
+
+        }else if ([Str containsString:@"http://ttpandoracdn.amsoveasea.com/favicon.ico"]) {
+
+        return [NSURL hook_URLWithString:@"http://ttpandoracdn.uuyyuu.com/favicon.ico"];
+
+        }else if ([Str containsString:@"sg.tdatamaster.com:8013"]) {
+
+        return [NSURL hook_URLWithString:@"sg.yyyuuu.com:8013"];
+
+        }else if ([Str containsString:@"jsonatm.broker.tplay.qq.com:5692"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"ig-us-sdkapi.igamecj.com:443"]) {
+
+        return [NSURL hook_URLWithString:@"ig-us-sdkapi.yyyyyy.com:443"];
+
+        }else if ([Str containsString:@"lobby.igamecj.com:17500"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"idcconfig.gcloud.qq.com"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"https://stat.tpns.sh.tencent.com"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"http://guid.guid.tpns.sh.tencent.com"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"http://stat.guid.tpns.sh.tencent.com"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"https://stat.tpns.sh.tencent.com"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"file.igamecj.com:80"]) {
+
+        return [NSURL hook_URLWithString:@"file.yygamecj.com:80"];
+
+        }else if ([Str containsString:@"http://pandoracdn.amsoveasea.com/dny/pubgmobile/20210425190126/FoolDay_IOS_1.4.0.17307.pak"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"http://pandoracdn.amsoveasea.com/dny/pubgmobile/20210425163614/TortoiseHare_IOS_1.3.0.17305.pak"]) {
+
+        return [NSURL hook_URLWithString:@"http://kmahe.uuuuuuuu.com/dny/pubgmobile/20210425163614/TortoiseHare_IOS_1.3.0.17305.pak"];
+
+        }else if ([Str containsString:@"http://sqlobby.pg.qq.com:17500"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"http://wxlobby.pg.qq.com:17500"]) {
+
+        return [NSURL hook_URLWithString:@""];
+
+        }else if ([Str containsString:@"http://pandoracdn.amsoveasea.com/dny/pubgmobile/20210512205753/MidEastPreOrder_IOS_1.4.0.17346.pak"]) {
+
+        return [NSURL hook_URLWithString:@"http://ttpandoracdn.amsoveasea.com/dny/pubgmobile/20210512205753/MidEastPreOrder_IOS_1.4.0.17346.pak"];
+
+        //主拦截
+
+        }else if ([Str containsString:@"https://down.anticheatexpert.com/iedsafe/Client/ios/2131/config3.xml"]) {
+
+        return [NSURL hook_URLWithString:@"http://www.6igg.com/config/config3.txt"];
+
+        }else if ([Str containsString:@"https://down.anticheatexpert.com/iedsafe/Client/ios/2131/config2.xml"]) {
+
+        return [NSURL hook_URLWithString:@"http://www.6igg.com/config/config2.txt"];
+
+        }else {
+
+        return [NSURL hook_URLWithString:Str];
